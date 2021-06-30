@@ -1,0 +1,14 @@
+.Outline{
+    width: 110px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    background-color: white;
+    color: #cc0033;
+}
+.Top{
+    text-align: left;
+}
+
+
+.Bottom{text-align: right;}
